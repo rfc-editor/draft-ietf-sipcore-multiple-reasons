@@ -1,15 +1,14 @@
 ---
 title: "Multiple SIP Reason Header Field Values"
-abbrev: "Multiple reasons"
-docname: draft-ietf-sipcore-multiple-reasons-latest
+abbrev: "Multiple SIP Reason Header Field Values"
+docname: draft-ietf-sipcore-multiple-reasons-01
 category: std
 updates: 3326
 
 ipr: trust200902
 area: ART
-workgroup: SIPCORE Working Group
+wg: SIPCORE Working Group
 stream: IETF
-keyword: Internet-Draft
 
 stand_alone: yes
 smart_quotes: no
@@ -41,9 +40,9 @@ The SIP Reason Header Field as defined in RFC 3326 allows only one Reason value 
 
 {::boilerplate bcp14-tagged}
 
-# Update to RFC3326
+# Update to RFC 3326
 
-The last paragraph of section 2 of {{RFC3326}} is replaced as follows:
+The last paragraph of {{Section 2 of RFC3326}} is replaced as follows:
 
 OLD:
 
@@ -74,15 +73,3 @@ This document has no IANA actions.
 
 # Acknowledgments
 This text is based on discussions at a STIR working group interim meeting. Jean Mahoney and Russ Housley provided suggestions that vastly improved the first attempts at assembling these words. Christer Holmberg, Dale Worley, Brian Rosen,  Chris Wendt, and Paul Kyzivat provided constructive discussion during SIPCORE working group adoption.
-
-# Changelog
-{:anchor="changelog"}
-(This section to be removed by the RFC editor.)
-
-## 00
-{:anchor="changelog-00"}
-- rename draft-sparks to draft-ietf. Add changelog.
-
-## 01
-{:anchor="changelog-01"}
-- expand a little on "Practice shows", referring to {{STIRREASONS}}
