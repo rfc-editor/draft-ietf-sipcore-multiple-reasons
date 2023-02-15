@@ -1,5 +1,5 @@
 ---
-title: "Multiple SIP Reason Header Field Values"
+title: "Multiple Values in the SIP Reason Header Field"
 abbrev: "Multiple SIP Reason Header Field Values"
 docname: draft-ietf-sipcore-multiple-reasons-01
 category: std
