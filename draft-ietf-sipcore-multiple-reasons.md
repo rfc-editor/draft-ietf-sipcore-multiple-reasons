@@ -28,13 +28,13 @@ informative:
 
 --- abstract
 
-The SIP Reason Header Field as defined in RFC 3326 allows only one Reason value per protocol value. Experience with more recently defined protocols shows it is useful to allow multiple values with the same protocol value. This document updates RFC 3326 to allow multiple values for an indicated registered protocol when that protocol defines what the presence of multiple values means.
+The SIP Reason header field as defined in RFC 3326 allows only one Reason value per protocol value. Experience with more recently defined protocols shows it is useful to allow multiple values with the same protocol value. This document updates RFC 3326 to allow multiple values for an indicated registered protocol when that protocol defines what the presence of multiple values means.
 
 --- middle
 
 # Introduction
 
-The SIP Reason Header Field as defined in RFC 3326 allows only one Reason value per protocol value. Experience with more recently defined protocols shows it is useful to allow multiple values with the same protocol value {{STIRREASONS}}. This document updates RFC 3326 to allow multiple values for an indicated registered protocol when that protocol defines what the presence of multiple values means. It does not change the requirement in RFC 3326 restricting the header field contents to one value per protocol for those protocols that do not define what multiple values mean.
+The SIP Reason header field as defined in RFC 3326 allows only one Reason value per protocol value. Experience with more recently defined protocols shows it is useful to allow multiple values with the same protocol value {{STIRREASONS}}. This document updates RFC 3326 to allow multiple values for an indicated registered protocol when that protocol defines what the presence of multiple values means. It does not change the requirement in RFC 3326 restricting the header field contents to one value per protocol for those protocols that do not define what multiple values mean.
 
 # Conventions and Definitions
 
