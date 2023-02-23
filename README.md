@@ -18,7 +18,7 @@ This document is being edited in kramdown-rfc markdown.  Once the content is sta
 ## Issue Tracking
 The initial version of draft-ietf-sipcore-multiple-reasons.md is the same as what was approved for publication. 
 
-The current version of draft-ietf-tls-subcerts.md has been edited minimally for correctness. See PR [#X](https://github.com/rfc-editor/draft-ietf-sipcore-multiple-reasons/pull/X).
+The current version of draft-ietf-tls-subcerts.md has been edited minimally for correctness. See PR [#3](https://github.com/rfc-editor/draft-ietf-sipcore-multiple-reasons/pull/3).
 
 The RFC Production Center's additional suggested updates have been added as PRs.  Open-ended questions and FYIs have been added as issues.  Please approve the PRs or propose alternate updates.  For the issues, provide your answers in the comments or add PRs to address them.  Use the issue labels to indicate their status:
 * rfced - initial label of RFC Editor questions and FYIs (keep this label if the issue is still active).
@@ -45,7 +45,7 @@ To create your own output files, use the [tools webservice](https://author-tools
 
 ## Viewing Diffs
 Diffs via GitHub:
-* [All editing updates made before AUTH48](https://github.com/rfc-editor/draft-ietf-sipcore-multiple-reasons/compare/3bb5f1a..9ab138d)
+* [All editing updates made before AUTH48](https://github.com/rfc-editor/draft-ietf-sipcore-multiple-reasons/compare/24351e4...1de474c)
 
 More information on using GitHub to view diffs can be found here: [Comparing commits](https://docs.github.com/en/github/committing-changes-to-your-project/viewing-and-comparing-commits/comparing-commits).
 
