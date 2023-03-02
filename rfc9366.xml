@@ -88,7 +88,7 @@
     </references>
     <section anchor="acknowledgments" numbered="false">
       <name>Acknowledgments</name>
-      <t>This text is based on discussions at a STIR working group interim meeting. <contact fullname="Jean Mahoney"/> and <contact fullname="Russ Housley"/> provided suggestions that vastly improved the first attempts at assembling these words. <contact fullname="Christer Holmberg"/>, <contact fullname="Dale Worley"/>, <contact fullname="Brian Rosen"/>, <contact fullname="Chris Wendt"/>, and <contact fullname="Paul Kyzivat"/> provided constructive discussion during SIPCORE working group adoption.</t>
+      <t>This text is based on discussions at a STIR Working Group interim meeting. <contact fullname="Jean Mahoney"/> and <contact fullname="Russ Housley"/> provided suggestions that vastly improved the first attempts at assembling these words. <contact fullname="Christer Holmberg"/>, <contact fullname="Dale Worley"/>, <contact fullname="Brian Rosen"/>, <contact fullname="Chris Wendt"/>, and <contact fullname="Paul Kyzivat"/> provided constructive discussion during SIPCORE Working Group adoption.</t>
     </section>
   </back>
 </rfc>
